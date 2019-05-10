@@ -15,10 +15,16 @@ Close your wallet and create the file zoow.conf in the folder “%APPDATA%\zoow\
 Paste the following text into zoow.conf and save the file.
 
 rpcuser=rpc_zoow
+<br>
 rpcpassword=cfd110dfccf87870a46589
+<br>
 rpcallowip=127.0.0.1
+<br>
 rpcport=8491
+<br>
 listen=1
+<br>
 server=1
+<br>
 
 Open your wallet.
