@@ -1,4 +1,5 @@
-Download Wallet ZOOW.
+Download Wallet ZOOW GUI and linux.
+<br>
 https://github.com/zoowcoin/wallet-zoow/releases/tag/v1.0.0.0
 
 Next step.
